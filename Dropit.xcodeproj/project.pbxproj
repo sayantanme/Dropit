@@ -112,8 +112,6 @@
 		397278C31990FAC200CA779E /* Dropit */ = {
 			isa = PBXGroup;
 			children = (
-				397278CC1990FAC200CA779E /* DropitAppDelegate.h */,
-				397278CD1990FAC200CA779E /* DropitAppDelegate.m */,
 				397278CF1990FAC200CA779E /* Main.storyboard */,
 				397278D21990FAC200CA779E /* DropitViewController.h */,
 				397278D31990FAC200CA779E /* DropitViewController.m */,
@@ -126,6 +124,8 @@
 		397278C41990FAC200CA779E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				397278CC1990FAC200CA779E /* DropitAppDelegate.h */,
+				397278CD1990FAC200CA779E /* DropitAppDelegate.m */,
 				397278C51990FAC200CA779E /* Dropit-Info.plist */,
 				397278C61990FAC200CA779E /* InfoPlist.strings */,
 				397278C91990FAC200CA779E /* main.m */,
